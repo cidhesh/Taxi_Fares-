@@ -1,2 +1,2 @@
 # Taxi_Fares-
-Taxi fare prediction using dataset  
+Taxi fare prediction 
